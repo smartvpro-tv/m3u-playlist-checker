@@ -93,6 +93,7 @@ This tool checks URLs you already have. It does not contain, generate or distrib
 
 ## Related
 
+- [iptv-toolkit](https://github.com/smartvpro-tv/iptv-toolkit): the full toolkit — check, clean, merge and filter playlists and test real stream speed ([docs](https://smartvpro-tv.github.io/iptv-toolkit/))
 - [awesome-iptv-players](https://github.com/smartvpro-tv/awesome-iptv-players): which app to use on each device
 - [iptv-setup-guides](https://github.com/smartvpro-tv/iptv-setup-guides): installation guides
 - [iptv-troubleshooting](https://github.com/smartvpro-tv/iptv-troubleshooting): buffering, EPG and login fixes
